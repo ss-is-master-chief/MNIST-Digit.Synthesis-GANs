@@ -1,4 +1,4 @@
-# MNIST-Digit.Recognizer-GANs
+# MNIST-Digit.Synthesis-GANs
 
 ### Generating Images of Hand Written Digits using MNIST Hand Written Digits dataset with Generative Adversarial Networks
 
